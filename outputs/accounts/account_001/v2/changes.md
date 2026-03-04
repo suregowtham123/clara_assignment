@@ -1,0 +1,4 @@
+- business_hours changed from 9am, 10am, 12pm, etc. to monday to friday i think what the website says is 8 to 4:30
+- emergency_routing_rules changed from calls are routed to Clara during holiday seasons to Transfer calls from G&M Pressure Washing to Ben
+- non_emergency_routing_rules changed from calls are routed to Clara during non-holiday seasons to Collect caller details and schedule follow-up
+- call_transfer_rules changed from calls are transferred to another agent if needed to Transfer to Ben if caller insists
